@@ -1,10 +1,9 @@
 ### Hello World 👋 I´m Helma
 
 
-**AdriT0211/AdriT0211** 
 <h3 align="center">A computer science student at UPIICSA</h3>
 
-- 🌱 I’m currently learning **programming languages, and about data science**
+- 🌱 I’m currently learning **programming languages and about data science**
 
 - 📫 How to reach me **adrianaterrazas573@gmail.com**
 
